@@ -1,5 +1,7 @@
 package MergeSort;
 
+//Time complexity of Merge Sort is θ(n Log n) in all 3 cases (worst, average and best)
+//Merge sort algorithm requires an additional memory space of 0(n) for the temporary array.
 public class MergeSort {
 
     public static void main(String[] args) {
